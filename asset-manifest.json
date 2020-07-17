@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tmdb-movie-search/static/css/main.6cdf640b.chunk.css",
+    "main.js": "/tmdb-movie-search/static/js/main.febafd97.chunk.js",
+    "main.js.map": "/tmdb-movie-search/static/js/main.febafd97.chunk.js.map",
+    "runtime-main.js": "/tmdb-movie-search/static/js/runtime-main.e9b15e67.js",
+    "runtime-main.js.map": "/tmdb-movie-search/static/js/runtime-main.e9b15e67.js.map",
+    "static/js/2.3bb99749.chunk.js": "/tmdb-movie-search/static/js/2.3bb99749.chunk.js",
+    "static/js/2.3bb99749.chunk.js.map": "/tmdb-movie-search/static/js/2.3bb99749.chunk.js.map",
+    "index.html": "/tmdb-movie-search/index.html",
+    "precache-manifest.f2263a5194ba2b8c38bdbd1e2146d39a.js": "/tmdb-movie-search/precache-manifest.f2263a5194ba2b8c38bdbd1e2146d39a.js",
+    "service-worker.js": "/tmdb-movie-search/service-worker.js",
+    "static/css/main.6cdf640b.chunk.css.map": "/tmdb-movie-search/static/css/main.6cdf640b.chunk.css.map",
+    "static/js/2.3bb99749.chunk.js.LICENSE.txt": "/tmdb-movie-search/static/js/2.3bb99749.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9b15e67.js",
+    "static/js/2.3bb99749.chunk.js",
+    "static/css/main.6cdf640b.chunk.css",
+    "static/js/main.febafd97.chunk.js"
+  ]
+}
